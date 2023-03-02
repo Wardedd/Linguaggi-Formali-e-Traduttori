@@ -1,0 +1,5 @@
+assign 10 to a,b;
+print(a,b);
+read(x,y,z);
+print(1,x,+(2,3,2));
+if (> x y) print(x) else print(y) end
