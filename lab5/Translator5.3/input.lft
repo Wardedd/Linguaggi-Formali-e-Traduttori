@@ -1,0 +1,7 @@
+/*input***/
+	read(_a1,B_2);/*commento****/ 
+	while (<> _a1 B_2) 
+		if (> _a1 B_2) 
+			assign - _a1 B_2 to _a1 else assign - B_2 _a1 to B_2 end;
+	print(_a1,*(B_2, _a1, 1000), 300) 
+//print(c)

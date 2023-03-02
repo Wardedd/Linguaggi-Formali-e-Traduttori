@@ -1,0 +1,21 @@
+assign /20/*aaaa*/2 to _SDasd_asdaAS_2,b;//
+//print(___1SDasd_asdaAS_2,b);
+/*asd """!!!2__*/print(_SDasd_asdaAS_2,b);
+read(x,y,z);
+print(1,x,+(2,3,2));
+if (> x y) print(x) else print(y) end;
+
+
+/*
+printa 10, 10
+read x y z - 2 1 3
+printa 1,2,7
+printa 2
+
+printa 1
+printa 10
+printa 0 
+printa 10
+*/
+assign / *(2,3,4) 2 to b;
+print(b)
